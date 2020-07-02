@@ -1,4 +1,4 @@
-# I have created this file - Harry
+
 from django.http import HttpResponse
 from django.shortcuts import render
 
